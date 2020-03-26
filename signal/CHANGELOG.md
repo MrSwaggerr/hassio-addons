@@ -1,9 +1,5 @@
 # Changelog
 
-## 10.5.1
-
-- Fix compatibility problem with official signal integration
-
 ## 10.5.0
 
 - Compatible with official home assistant signal integration
